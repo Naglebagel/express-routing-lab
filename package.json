@@ -18,5 +18,9 @@
   "homepage": "https://github.com/Naglebagel/express-routing-lab#readme",
   "dependencies": {
     "express": "^4.16.2"
+  },
+  "devDependencies": {
+    "gulp": "^3.9.1",
+    "gulp-less": "^3.3.2"
   }
 }
